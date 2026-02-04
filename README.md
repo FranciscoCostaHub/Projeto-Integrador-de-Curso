@@ -20,4 +20,4 @@ Número da Equipa: 3
 
 
 Credits to all group members.
-Code files cloned by group member Miguel Matias - https://github.com/Miguel-Matias
+Code files cloned from original repository of group member Miguel Matias - https://github.com/Miguel-Matias
