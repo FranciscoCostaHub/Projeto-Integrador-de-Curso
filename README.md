@@ -6,17 +6,17 @@ O projeto "GUNSHOT DETECTION SYSTEM" pretende implemetar uma solução de baixo 
 Equipa:
 Número da Equipa: 3
 
-102910 Rui Martins       ruicbmartins@tecnico.ulisboa.pt
+102910 Rui Martins           ruicbmartins@tecnico.ulisboa.pt
 
 103203 Francisco Saramago    saramago03@gmail.com
 
-103439 Eva Oliveira       ecao.eva13@gmail.com
+103439 Eva Oliveira          ecao.eva13@gmail.com
 
-106916 Francisco Costa     franciscopcccosta@gmail.com
+106916 Francisco Costa       franciscopcccosta@gmail.com
 
-107511 Joana Rodrigues     joanamrodrigues4@gmail.com
+107511 Joana Rodrigues       joanamrodrigues4@gmail.com
 
-110801 Miguel Matias      miguelmatias615@gmail.com
+110801 Miguel Matias         miguelmatias615@gmail.com
 
 
 Credits to all group members.
